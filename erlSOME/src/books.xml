@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<x:books xmlns:x="urn:books">
+    <book id="bk001">
+        <author>Writer</author>
+        <title>The First Book</title>
+        <genre>Fiction</genre>
+        <price>44.95</price>
+        <pub_date>2000-10-01</pub_date>
+        <review>An amazing story of nothing.</review>
+    </book>
+
+    <book id="bk002">
+        <author>Poet</author>
+        <title>The Poet's First Poem</title>
+        <genre>Poem</genre>
+        <price>24.95</price>
+        <pub_date>1990-10-01</pub_date>
+        <review>Least poetic poems.</review>
+    </book>
+
+    <book id="bk003">
+        <author>Poet</author>
+        <title>The Poet's Second Poem</title>
+        <genre>Poem</genre>
+        <price>25.95</price>
+        <pub_date>1991-10-01</pub_date>
+        <review>Least poetic poems.</review>
+    </book>
+
+    <book id="bk004">
+        <author>Poet</author>
+        <title>The Poet's Third Poem</title>
+        <genre>Poem</genre>
+        <price>14.95</price>
+        <pub_date>1994-10-01</pub_date>
+        <review>Least poetic poems.</review>
+    </book>
+
+    <book id="bk005">
+        <author>Poet</author>
+        <title>The Poet's Fourth Poem</title>
+        <genre>Poem</genre>
+        <price>34.95</price>
+        <pub_date>1995-10-01</pub_date>
+        <review>Least poetic poems.</review>
+    </book>
+
+    <book id="bk006">
+        <author>Poet</author>
+        <title>The Poet's Fifth Poem</title>
+        <genre>Poem</genre>
+        <price>64.95</price>
+        <pub_date>1999-10-01</pub_date>
+        <review>Least poetic poems.</review>
+    </book>
+</x:books>

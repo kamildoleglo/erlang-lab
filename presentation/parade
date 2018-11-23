@@ -1,0 +1,24 @@
+title "Erlsom"
+
+theme "slate"
+
+section "Introduction" do
+  slides "header.md"
+end
+
+section "XML" do
+  slides "xml.md"
+  slides "xsd.md"
+end
+
+section "Erlsom" do
+  slides "erlsom_example.md"
+  slides "erlsom_modes.md"
+  slides "sax_parser.md"
+  slides "dom_parser.md"
+  slides "data_binder.md"
+  slides "our_xml.md"
+  slides "our_xsd.md"
+end
+
+
